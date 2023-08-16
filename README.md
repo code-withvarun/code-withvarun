@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Varun Kaushik
-<p align="center"><img src="shree ram.gif" width="35%"><img src="front.gif" width="35%"></p>
+### Hi there 👋 I'm Varun Kaushik <img src="shree ram.gif" width="35%">
+<p align="center"><img src="front.gif" width="35%"></p>
 
 
 - 🔭 I’m currently working on Developing my Skill.
