@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Developing my Skill.
 - 🌱 I’m currently learning Web Development and Different Frameworks
 - 💬 Ask me about Universe
-- 📫 How to reach me: kaushikvarun2793@gmail.com
+- 📫 How to reach me: <a href="http://kaushikvarun2793@gmail.com">kaushikvarun2793@gmail.com</a>
 
 <p align="center">
 
