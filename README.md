@@ -16,7 +16,7 @@
       <img src="ht.webp" height="70" width="70" > 
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
-      <img src="csspic.png" height="60" width="70" > 
+      <img src="csspic.png" height="70" width="70" > 
     </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img src="javascipic.png" height="60" width="90" > 
