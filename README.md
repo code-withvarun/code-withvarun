@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Varun Kaushik <img src="shree ram.gif" height="50" width="35%">
+### Hi there 👋 I'm Varun Kaushik 
 <p align="center"><img src="front.gif" width="35%"></p>
 
 
