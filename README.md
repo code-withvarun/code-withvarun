@@ -21,6 +21,11 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img src="javascipic.png" height="60" width="70" > 
     </a>
+   <a href="https://www.java.com" target="_blank"> 
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="60" width="70"/>
+    <a href="https://kotlinlang.org/docs/home.html" target="_blank"> 
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQam_S88ONtcGpJDQ5PIrdyP9hSUNG5FMXuAOFGzeT7Z7Bwt1cWgsOIyr2Jz3HKVAhHtes&usqp=CAU" height=60 width=70 /> 
+    </a>
 
 </p>
 
