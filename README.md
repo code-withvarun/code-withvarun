@@ -19,7 +19,7 @@
       <img src="csspic.png" height="60" width="70" > 
     </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-      <img src="javascipic.png" height="60" width="70" > 
+      <img src="javascipic.png" height="60" width="90" > 
     </a>
    <a href="https://www.java.com" target="_blank"> 
       <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="60" width="70"/>
