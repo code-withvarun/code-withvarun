@@ -12,11 +12,9 @@
 ### 🔹Programming Languages:ㅤㅤ
 
 <p style="padding:10px;">
-    <marquee behavior="alternate" direction="up">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
       <img src="ht.webp" height="70" width="70" > 
     </a>
-</marquee>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
       <img src="csspic.png" height="70" width="70" > 
     </a>
