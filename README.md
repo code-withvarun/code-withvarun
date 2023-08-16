@@ -22,13 +22,6 @@
       <img src="javascipic.png" height="60" width="70" > 
     </a>
 
-    <a href="https://www.java.com" target="_blank"> 
-      <img src="javapic.png" height="60" width="70">
-    </a>
-    <a href="https://kotlinlang.org/docs/home.html" target="_blank"> 
-      <img src="kotlinpic.png" height="60" width="70" > 
-    </a>
-   
 </p>
 
 ### 🔹Frameworks:
@@ -46,17 +39,7 @@
 ### 🔹Tools:
 
 <p style="padding:10px;">
-
-    <a href="https://www.jetbrains.com/help/idea/getting-started.html" target="_blank"> 
-        <img src="intell.png" height="40" width="50" > 
-      </a>
+<img src="visual-studiopic.png" height="40" width="50">
+ <img src="Eclipse.png" height=40 width=50 >     
    
-   
-    <a href="https://code.visualstudio.com/docs" target="_blank"> 
-      <img src="visual-studiopic.png" height="40" width="50" > 
-    </a>
-    <a href="https://www.eclipse.org/documentation/" target="_blank"> 
-      <img src="Eclipse.png" height="40"width="50"> 
-    </a>
-</p>
 </p>
